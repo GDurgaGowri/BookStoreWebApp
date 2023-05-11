@@ -15,8 +15,8 @@ Front end:HTML,CSS,BOOTSTRAP
 Backend:Sevlet,JAVA,My SQL
 
 DESCRIPTION:
-Hi,This is my project BookStoreWebApp which will be helpfull to the person working or owns a Book store.
-It is hard foe them to search the boook manually at every place when the customer ordered it.It also makes the customer frustated by waiting for the book.
+Hi, This is my project BookStoreWebApp which will be helpful to the person working or owns a Book store.
+It is hard for them to search the book manually at every place when the customer ordered it. It also makes the customer frustated by waiting for the book.
 so here my project helps you for easily identify the cuurent place of the book.
-The only thing is when they add new books to the store hey have to update it in the database and delete after selling it completelu.
+The only thing is when they add new books to the store hey have to update it in the database and delete after selling it completely.
 and also it stores the quantity so it is easy to edit after selling the book.
